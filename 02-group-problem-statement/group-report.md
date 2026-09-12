@@ -6,11 +6,11 @@
 
 | STT | Họ và tên | Mã học viên | Vai trò trong nhóm (VD: facilitator, workflow, research, writer) |
 |-----|-----------|-------------|---------------------------------------------------------------|
-| 1   | Thành viên A | [đã ẩn] | Writer — tổng hợp và hoàn thiện Problem Statement |
-| 2   | Thành viên B | [đã ẩn] | Facilitator — điều phối thảo luận và quick validation |
-| 3   | Thành viên C | [đã ẩn] | Topic lead — người đóng góp chính cho chủ đề, research và thiết kế giải pháp |
-| 4   | Thành viên D | [đã ẩn] | Workflow — phân tích current/future workflow và metric |
-| 5   | Thành viên E | [đã ẩn] | Reviewer — phản biện Rule/Workflow/Agent và kiểm tra bản nộp |
+| 1   | Phạm Xuân Quý | 2A202602745 | Writer — tổng hợp và hoàn thiện Problem Statement |
+| 2   | Nguyễn Ngọc Tuyền | 2A202603010 | Facilitator — điều phối thảo luận và quick validation |
+| 3   | Nguyễn Hoàng Tuyên | 2A202602439 | Topic lead — người đóng góp chính cho chủ đề, research và thiết kế giải pháp |
+| 4   | Trần Quốc Vượng | 2A202602522 | Workflow — phân tích current/future workflow và metric |
+| 5   | Nguyễn Thành Nam | 2A202602827 | Reviewer — phản biện Rule/Workflow/Agent và kiểm tra bản nộp |
 
 **Candidate problem nhóm chọn (1 câu):**
 
@@ -24,18 +24,18 @@ HR mất nhiều thời gian đọc CV ở nhiều định dạng và đối chi
 
 | # | Người đưa ra | Candidate problem | Người gặp vấn đề | Điểm nghẽn | Cảm nhận nhanh của nhóm |
 |---|---|---|---|---|---|
-| 1 | Thành viên E | Tổng hợp progress report thực tập từ ghi chú, tin nhắn mentor và Excel | Thực tập sinh/Junior và mentor | Viết narrative từ dữ liệu rời rạc mất 25–30 phút | Workflow rõ, metric tốt; AI có thể draft nhưng vẫn cần intern review. |
-| 2 | Thành viên E | Theo dõi deadline, bài nộp và điểm danh từ Zalo/Discord/LMS | Sinh viên học nhiều môn | Phải mở, tìm và đối chiếu nhiều nguồn rời rạc | Pain lặp lại và ảnh hưởng nhiều người; data access có thể khó. |
-| 3 | Thành viên E | Viết và chỉnh CV + cover letter tiếng Anh theo từng JD | Sinh viên năm cuối/người mới tốt nghiệp | Chỉnh nội dung và highlight cho khớp JD mất 40–50 phút | Impact cá nhân rõ; chất lượng đầu ra khó đo trong lab. |
-| 4 | Thành viên C | Tìm lại task, quyết định và tài liệu cũ trong nhiều kênh | Sinh viên làm nhóm/trưởng nhóm | Phải dò Discord, LMS, Docs, Notion và đọc lại context | Có pain thật nhưng scope dễ rộng thành search toàn bộ dữ liệu. |
-| 5 | Thành viên C | Tổng hợp tài liệu dài thành summary trước khi nộp bài | Sinh viên làm bài cá nhân và nhóm | Đọc lặp lại nhiều nguồn để chọn ý chính | Dễ làm trong lab; cần thu hẹp loại tài liệu và output. |
-| 6 | Thành viên C | Kiểm tra rubric và field bắt buộc trước khi nộp | Sinh viên chuẩn bị nộp assignment | Đối chiếu thủ công từng field, dễ bỏ sót sát deadline | Rule/workflow đơn giản có thể đủ; impact mỗi lần chưa lớn. |
-| 7 | Thành viên A | Tổng hợp kiến thức từ nhiều tài liệu khi ôn thi cuối kỳ | Sinh viên chuẩn bị thi | Đọc, đối chiếu và viết lại nội dung rời rạc | Impact lớn hơn 20 giờ/môn nhưng baseline cần tách khỏi thời gian học. |
-| 8 | Thành viên A | Theo dõi bài giảng tiếng Anh khi phải vừa nghe, dịch và ghi chú | Sinh viên nghe tiếng Anh chưa tốt | Xử lý đồng thời nghe–dịch–ghi chú trong thời gian thực | AI có điểm can thiệp rõ; số liệu hiện mới là giả định. |
-| 9 | Thành viên A | Xếp hàng xe lâu trước cổng trường vào giờ cao điểm | Sinh viên đi xe và bảo vệ | Nhiều xe dồn vào bước kiểm tra tuần tự | Pain có thật và dễ đo; có thể chỉ cần process/Rule, chưa chắc cần AI. |
-| 10 | Thành viên D | Tìm bug trong code Python/AI khi chưa biết lỗi ở dữ liệu, môi trường hay logic | Sinh viên/lập trình viên trực tiếp debug | Khoanh vùng nguồn lỗi khi thiếu log và context | Workflow rõ, mất 30–90 phút/lần; AI có thể thiếu dữ kiện để chẩn đoán đúng. |
-| 11 | Thành viên D | Tóm tắt tài liệu dài thành checklist yêu cầu cho assignment | Sinh viên làm assignment | Đọc và đối chiếu yêu cầu/rubric để tránh thiếu field | Scope gọn, đo được; cần kiểm tra AI có hiểu sai hoặc bỏ sót yêu cầu không. |
-| 12 | Thành viên D | Tổng hợp tiến độ và phần việc của thành viên trong bài tập nhóm | Trưởng nhóm và các thành viên | Input cập nhật thiếu hoặc không cùng format, phải hỏi lại | Lặp khoảng 2 lần/tuần, output cố định; process/board chung có thể đã đủ. |
+| 1 | Nguyễn Thành Nam | Tổng hợp progress report thực tập từ ghi chú, tin nhắn mentor và Excel | Thực tập sinh/Junior và mentor | Viết narrative từ dữ liệu rời rạc mất 25–30 phút | Workflow rõ, metric tốt; AI có thể draft nhưng vẫn cần intern review. |
+| 2 | Nguyễn Thành Nam | Theo dõi deadline, bài nộp và điểm danh từ Zalo/Discord/LMS | Sinh viên học nhiều môn | Phải mở, tìm và đối chiếu nhiều nguồn rời rạc | Pain lặp lại và ảnh hưởng nhiều người; data access có thể khó. |
+| 3 | Nguyễn Thành Nam | Viết và chỉnh CV + cover letter tiếng Anh theo từng JD | Sinh viên năm cuối/người mới tốt nghiệp | Chỉnh nội dung và highlight cho khớp JD mất 40–50 phút | Impact cá nhân rõ; chất lượng đầu ra khó đo trong lab. |
+| 4 | Nguyễn Hoàng Tuyên | Tìm lại task, quyết định và tài liệu cũ trong nhiều kênh | Sinh viên làm nhóm/trưởng nhóm | Phải dò Discord, LMS, Docs, Notion và đọc lại context | Có pain thật nhưng scope dễ rộng thành search toàn bộ dữ liệu. |
+| 5 | Nguyễn Hoàng Tuyên | Tổng hợp tài liệu dài thành summary trước khi nộp bài | Sinh viên làm bài cá nhân và nhóm | Đọc lặp lại nhiều nguồn để chọn ý chính | Dễ làm trong lab; cần thu hẹp loại tài liệu và output. |
+| 6 | Nguyễn Hoàng Tuyên | Kiểm tra rubric và field bắt buộc trước khi nộp | Sinh viên chuẩn bị nộp assignment | Đối chiếu thủ công từng field, dễ bỏ sót sát deadline | Rule/workflow đơn giản có thể đủ; impact mỗi lần chưa lớn. |
+| 7 | Phạm Xuân Quý | Tổng hợp kiến thức từ nhiều tài liệu khi ôn thi cuối kỳ | Sinh viên chuẩn bị thi | Đọc, đối chiếu và viết lại nội dung rời rạc | Impact lớn hơn 20 giờ/môn nhưng baseline cần tách khỏi thời gian học. |
+| 8 | Phạm Xuân Quý | Theo dõi bài giảng tiếng Anh khi phải vừa nghe, dịch và ghi chú | Sinh viên nghe tiếng Anh chưa tốt | Xử lý đồng thời nghe–dịch–ghi chú trong thời gian thực | AI có điểm can thiệp rõ; số liệu hiện mới là giả định. |
+| 9 | Phạm Xuân Quý | Xếp hàng xe lâu trước cổng trường vào giờ cao điểm | Sinh viên đi xe và bảo vệ | Nhiều xe dồn vào bước kiểm tra tuần tự | Pain có thật và dễ đo; có thể chỉ cần process/Rule, chưa chắc cần AI. |
+| 10 | Trần Quốc Vượng | Tìm bug trong code Python/AI khi chưa biết lỗi ở dữ liệu, môi trường hay logic | Sinh viên/lập trình viên trực tiếp debug | Khoanh vùng nguồn lỗi khi thiếu log và context | Workflow rõ, mất 30–90 phút/lần; AI có thể thiếu dữ kiện để chẩn đoán đúng. |
+| 11 | Trần Quốc Vượng | Tóm tắt tài liệu dài thành checklist yêu cầu cho assignment | Sinh viên làm assignment | Đọc và đối chiếu yêu cầu/rubric để tránh thiếu field | Scope gọn, đo được; cần kiểm tra AI có hiểu sai hoặc bỏ sót yêu cầu không. |
+| 12 | Trần Quốc Vượng | Tổng hợp tiến độ và phần việc của thành viên trong bài tập nhóm | Trưởng nhóm và các thành viên | Input cập nhật thiếu hoặc không cùng format, phải hỏi lại | Lặp khoảng 2 lần/tuần, output cố định; process/board chung có thể đã đủ. |
 
 ### 3.2. Gom trùng / cluster (gom 9-12 ý thành 3-4 cụm)
 

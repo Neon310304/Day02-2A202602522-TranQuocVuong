@@ -4,8 +4,8 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên: [đã ẩn]
-- Mã học viên: [đã ẩn]
+- Họ và tên: Trần Quốc Vượng
+- Mã học viên: 2A202602522
 - Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...): Sinh viên, thường làm bài tập Python/AI và bài tập nhóm.
 - Công việc hằng tuần (3-5 gạch đầu dòng để soi problem):
 	- Đọc tài liệu hoặc tutorial để hiểu yêu cầu bài tập.

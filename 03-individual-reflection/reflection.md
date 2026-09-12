@@ -4,8 +4,8 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên: [đã ẩn]
-- Mã học viên: [đã ẩn]
+- Họ và tên: Trần Quốc Vượng
+- Mã học viên: 2A202602522
 - Nhóm: Top1VinAi
 - Candidate problem nhóm chọn: HR mất nhiều thời gian sàng lọc CV đa định dạng và đối chiếu thủ công với Job Description; nhóm muốn xây dựng trợ lý OCR + multi-agent có kiểm soát để tạo báo cáo bằng chứng cho HR review, không tự động tuyển hoặc loại ứng viên.
 
